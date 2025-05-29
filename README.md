@@ -14,7 +14,7 @@ References :
 Implementation (Transformer) :
 
 1. [Pwerrson](https://www.youtube.com/watch?v=U0s0f995w140)
-2. [Umar Jamil}(https://www.youtube.com/watch?v=ISNdQcPhsts)
+2. [Umar Jamil](https://www.youtube.com/watch?v=ISNdQcPhsts)
 
 Implementation (ViT) :
 
